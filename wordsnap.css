@@ -1,0 +1,17 @@
+/*
+ * WordSnap
+ * Codeify.net
+ * License: GPLv2
+ */
+
+.wordsnap-button {
+	display: inline-block;
+	height: 32px;
+	width: 32px;
+	border: none;
+	float: left;
+	margin: 7px 8px 0 0;
+	background:url('save.png') no-repeat center;
+	cursor:pointer;
+	outline:none;
+}
